@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @djtiwari17
-- 👀 I’m interested in learning new things here.. and yes how this platform works {complete newbie}
-- 🌱 I’m currently learning Full stack development.
-- 💞️ I’m looking to collaborate on projects i guess
+- 👀 I’m interested in learning new things here as well as broaden my Front-end dev Skillset.
+- 🌱 I’m a SharePoint developer, with keen interenst in developing cutting-edge, scalable websites.
+- 💞️ I’m looking to collaborate on projects and build new ones.
 - 📫 How to reach me djtiwari17@gmail.com
 
 <!---
